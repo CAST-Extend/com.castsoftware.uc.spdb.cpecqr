@@ -1,2 +1,2 @@
 # com.castsoftware.uc.spdb.cpecqr
-This is SPDB Custom Quality Rules for C, Header, PC and EC files
+This extension provides custom quality rules for  C, PC, EC, Header files based on client specific requirement.
